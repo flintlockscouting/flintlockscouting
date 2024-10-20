@@ -2,6 +2,7 @@
 
 layout: page
 title: District Events
+nav_order: 2
 
 ---
 

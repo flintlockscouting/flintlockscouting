@@ -82,3 +82,25 @@ nav_enabled: true
 # Supports true (default) or false
 heading_anchors: true
 
+collections_dir: _collections
+
+collections:
+  activities:
+    output: true
+    permalink: /activities/:path
+  camping:
+    output: true
+    permalink: /camping/:path
+  games:
+    output: true
+    permalink: /games/:path
+  recipes:
+    output: true
+    permalink: /recipes/:path
+  skits:
+    output: true
+    permalink: /skits/:path
+  songs:
+    output: true
+    permalink: /songs/:path
+    

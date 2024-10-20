@@ -2,6 +2,7 @@
 
 layout: page
 title: Committee Members
+nav_order: 3
 
 ---
 
