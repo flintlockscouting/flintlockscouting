@@ -7,7 +7,6 @@ title: Committee Members
 
 |Member|Role|
 |:---|:---|
-|[](mailto:)||
 |[Peter Ricci](mailto: riccistuff@verizon.net)|District Chair|
 |[Allan Coady](mailto:allan_coady@raytheon.com)|District Vice Chair|
 |[Kenneth Fung](mailto:ksfung3@yahoo.com)|District Commissioner|

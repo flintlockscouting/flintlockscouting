@@ -22,7 +22,7 @@ nav_order: 1
 [Contact Peter Ricci for questions about District Events](mailto:riccistuff@verizon.net){: .btn .btn-green } 
 
 
-## What's New In Flintlock
+## What's New from Flintlock District
 <div>
   {% for post in site.posts %}
       <a href="{{ post.url }}">{{ post.date | date_to_long_string: "ordinal", "US" }}: {{ post.title }}</a>
