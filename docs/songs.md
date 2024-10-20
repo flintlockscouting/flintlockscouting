@@ -11,7 +11,7 @@ Flintlock Favorite Scout Songs
 <ul>
 {% for song in site.songs %}
 <li>
-    <a href="{{ song.url }}">
+    <a href="{{ site.baseurl }}/{{ song.url }}">
         {{ song.name }}
     </a>
 </li>

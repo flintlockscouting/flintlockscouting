@@ -11,7 +11,7 @@ Flintlock Favorite Games
 <ul>
 {% for game in site.games %}
 <li>
-    <a href="{{ game.url }}">
+    <a href="{{ site.baseurl }}/{{ game.url }}">
         {{ game.name }}
     </a>
 </li>

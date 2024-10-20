@@ -9,9 +9,9 @@ parent: Scouting Resources
 Flintlock Favorite Camping Locations
 
 <ul>
-{% for song in site.camping %}
+{% for camp in site.camping %}
 <li>
-    <a href="{{ camp.url }}">
+    <a href="{{ site.baseurl }}/{{ camp.url }}">
         {{ camp.name }}
     </a>
 </li>

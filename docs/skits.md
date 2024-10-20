@@ -11,7 +11,7 @@ Flintlock Favorite Campfire Skits
 <ul>
 {% for skit in site.skits %}
 <li>
-    <a href="{{ skit.url }}">
+    <a href="{{ site.baseurl }}/{{ skit.url }}">
         {{ skit.name }}
     </a>
 </li>

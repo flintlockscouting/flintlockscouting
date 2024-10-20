@@ -11,7 +11,7 @@ Flintlock Favorite Camping Recipes
 <ul>
 {% for recipe in site.recipes %}
 <li>
-    <a href="{{ recipe.url }}">
+    <a href="{{ site.baseurl }}/{{ recipe.url }}">
         {{ recipe.name }}
     </a>
 </li>

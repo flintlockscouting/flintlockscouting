@@ -9,10 +9,10 @@ parent: Scouting Resources
 Flintlock Favorite Scout Activities
 
 <ul>
-{% for song in site.activities %}
+{% for activity in site.activities %}
 <li>
-    <a href="{{ activites.url }}">
-        {{ activities.name }}
+    <a href="{{ site.baseurl }}/{{ activity.url }}">
+        {{ activity.name }}
     </a>
 </li>
 {% endfor %}
