@@ -1,7 +1,84 @@
-theme: just-the-docs
 title: Flintlock District Homepage
-description: Bookmark this to keep an eye on my project updates!
-url: https://just-the-docs.github.io
+description: Bookmark this to keep an eye on the latest Flintlock District news and resources.
+url: https://flintlockscouting.org
 
+# sets the jekyll theme for the site to use 
+theme: just-the-docs
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: light
+
+# Site Settings used for browers and search engines
+logo: "/assets/images/scouting-logo.png"
+favicon: "/assets/images/favicon.ico"
+
+# Left-Nav External navigation links
+nav_external_links:  
+  - title: Follow Us On Facebook
+    url: https://www.facebook.com/FlintlockSOA
+    hide_icon: false
+    opens_in_new_tab: true
+
+  - title: Adult Trainings
+    url: https://www.scoutspirit.org/find-training/
+    hide_icon: false
+    opens_in_new_tab: true
+
+  - title: Council Events
+    url: https://www.scoutspirit.org/ecwd_calendar/calendar/
+    hide_icon: false 
+    opens_in_new_tab: true 
+  
+  - title: More Leader Resources
+    url: https://www.scoutspirit.org/leaders/
+    hide_icon: false
+    opens_in_new_tab: true
+
+
+# Top Right Naviation Links
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  The Spirit of Adventure Council: https://www.scoutspirit.org
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true 
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+
+search:
+  # Split pages into sections that can be searched individually
+  # Supports 1 - 6, default: 2
+  heading_level: 6
+  # Maximum amount of previews per search result
+  # Default: 3
+  previews: 10
+  # Maximum amount of words to display before a matched word in the preview
+  # Default: 5
+  preview_words_before: 5
+  # Maximum amount of words to display after a matched word in the preview
+  # Default: 10
+  preview_words_after: 10
+  # Set the search token separator
+  # Default: /[\s\-/]+/
+  # Example: enable support for hyphenated search words
+  tokenizer_separator: /[\s/]+/
+  # Display the relative url in search results
+  # Supports true (default) or false
+  rel_url: true
+  # Enable or disable the search button that appears in the bottom right corner of every page
+  # Supports true or false (default)
+  button: false
+  # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
+  focus_shortcut_key: 'k'
+
+# Enable or disable the side/mobile menu globally
+# Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
+nav_enabled: true
+
+# Heading anchor links appear on hover over h1-h6 tags in page content
+# allowing users to deep link to a particular heading on a page.
+#
+# Supports true (default) or false
+heading_anchors: true
+
