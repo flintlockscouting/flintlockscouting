@@ -9,7 +9,7 @@ nav_order: 1
 
 [Join the Council Mailing List](https://lp.constantcontactpages.com/sl/zZ8QRqh){: .btn .btn-green } 
 
-## Important Monthly Events 
+## Important Monthly District Events 
 
 |Event| When & Where | Contact |
 |:-------------|:------------------|:------|
@@ -22,10 +22,12 @@ nav_order: 1
 [Contact Peter Ricci for questions about District Events](mailto:riccistuff@verizon.net){: .btn .btn-green } 
 
 
-## What's New from Flintlock District
+## New from Flintlock District
 <div>
   {% for post in site.posts %}
       <a href="{{ post.url }}">{{ post.date | date_to_long_string: "ordinal", "US" }}: {{ post.title }}</a>
       {{ post.excerpt }}
   {% endfor %}
 </div>
+
+<hr/>

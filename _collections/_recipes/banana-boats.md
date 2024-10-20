@@ -2,7 +2,7 @@
 
 layout: page
 name: Banana Boats
-tags: desert campfire younger-scout-friendly
+tags: desert,campfire,younger-scout-friendly
 
 ---
 
