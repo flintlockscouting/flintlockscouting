@@ -104,4 +104,25 @@ collections:
     output: true    
     permalink: /songs/:path
 
+just_the_docs:
+  collections:
+    activities:
+      name: Activities
+      nav_exclude: true
+    camping:
+      name: Camping
+      nav_exclude: true
+    games:
+      name: Games
+      nav_exclude: true
+    recipes:
+      name: Recipes
+      nav_exclude: true
+    skits:
+      name: Skits
+      nav_exclude: true
+    songs:  
+      name: Songs
+      nav_exclude: true
+      
 

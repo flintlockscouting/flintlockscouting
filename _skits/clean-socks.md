@@ -7,6 +7,7 @@ tags: patrol-skit
 ---
 
 # Clean Socks
+
 The Clean Sock Skit is a must-do for any patrol looking to deliver a hilarious performance during a campout. The number of Scouts involved can be tweaked a little, but I’ve found that having around 5 Scouts is ideal. Also, for Pete’s sake, use clean socks! Please!!!
 
 ## Materials 
