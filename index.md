@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 # Flintlock District Communitiess
-![Flintlock District Community Map](/assets/images/flintlock-map.jpg)
+![Flintlock District Community Map](assets/images/flintlock-map.jpg)
 
 [Join the Council Mailing List](https://lp.constantcontactpages.com/sl/zZ8QRqh){: .btn .btn-green } 
 
