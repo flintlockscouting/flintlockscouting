@@ -87,20 +87,20 @@ collections_dir: _collections
 collections:
   activities:
     output: true
-    permalink: /activities/:path
+    permalink: activities/:path
   camping:
     output: true
-    permalink: /camping/:path
+    permalink: camping/:path
   games:
     output: true
-    permalink: /games/:path
+    permalink: games/:path
   recipes:
     output: true
-    permalink: /recipes/:path
+    permalink: recipes/:path
   skits:
     output: true
-    permalink: /skits/:path
+    permalink: skits/:path
   songs:
     output: true
-    permalink: /songs/:path
+    permalink: songs/:path
     
