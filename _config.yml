@@ -1,6 +1,6 @@
 title: Flintlock District Homepage
 description: Bookmark this to keep an eye on the latest Flintlock District news and resources.
-url: https://flintlockscouting.org
+url: https://flintlockscouting.github.io/flintlockscouting
 
 # sets the jekyll theme for the site to use 
 theme: just-the-docs
@@ -87,20 +87,13 @@ collections_dir: _collections
 collections:
   activities:
     output: true
-    permalink: activities/:path
   camping:
     output: true
-    permalink: camping/:path
   games:
     output: true
-    permalink: games/:path
   recipes:
     output: true
-    permalink: recipes/:path
   skits:
     output: true
-    permalink: skits/:path
   songs:
-    output: true
-    permalink: songs/:path
-    
+    output: true    

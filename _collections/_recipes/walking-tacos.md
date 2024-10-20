@@ -6,6 +6,8 @@ tags: easy lunch younger-scout-friendly
 
 ---
 
+# Walking Tacos
+
 ## Description
 
 Walking Tacos are an fun and easy favorite for a light lunch for a patrol with little waste. Walking Tacos are served in a Fritos or Dorritos bag, with taco toppings piled atop the chips right in the bag. 

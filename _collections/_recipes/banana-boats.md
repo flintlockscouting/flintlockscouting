@@ -6,6 +6,8 @@ tags: desert campfire younger-scout-friendly
 
 ---
 
+# Banana Boats
+
 ## Description
 
 Banana Boats are a gooey and delicious campfire desert that is easy and fun for younger scouts to make. Banana Boats are cooked in tinfoil on the open fire and consist of a banana (still in its skin) split down the middle and stuffed with chocolate chips and mini marshmallows and then melted until the banana starts to carmelize. Typically they are eaten directly from their tinfoil wrapper when they cool after coming off the fire.
