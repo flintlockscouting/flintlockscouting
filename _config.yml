@@ -1,5 +1,8 @@
 title: Flintlock District Homepage
 description: Bookmark this to keep an eye on the latest Flintlock District news and resources.
+url: https://flintlockscouting.github.io/
+baseurl: /flintlockscouting
+
 
 # sets the jekyll theme for the site to use 
 theme: just-the-docs
