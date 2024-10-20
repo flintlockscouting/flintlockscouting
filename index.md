@@ -25,7 +25,7 @@ nav_order: 1
 ## New from Flintlock District
 <div>
   {% for post in site.posts %}
-      <a href="{{ post.url }}">{{ post.date | date_to_long_string: "ordinal", "US" }}: {{ post.title }}</a>
+      <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.date | date_to_long_string: "ordinal", "US" }}: {{ post.title }}</a>
       {{ post.excerpt }}
   {% endfor %}
 </div>
