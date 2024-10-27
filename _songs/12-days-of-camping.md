@@ -2,7 +2,9 @@
 
 layout: page
 name: 12 Days of Camping
-tags: repetition,familiar
+tags: 
+    - repetition
+    - familiar
 
 ---
 

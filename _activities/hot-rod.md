@@ -2,7 +2,8 @@
 
 layout: page
 name: Hot Rod
-tags: puzzle-game
+tags: 
+    - puzzle-game
 
 ---
 

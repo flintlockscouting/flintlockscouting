@@ -2,7 +2,10 @@
 
 layout: page
 name: O'Grady
-tags: small-group,indoor,outdoor
+tags: 
+    - small-group
+    - indoor
+    - outdoor
 
 ---
 

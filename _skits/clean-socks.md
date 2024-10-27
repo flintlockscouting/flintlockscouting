@@ -2,7 +2,8 @@
 
 layout: page
 name: Clean Socks
-tags: patrol-skit
+tags: 
+    - patrol-skit
 
 ---
 

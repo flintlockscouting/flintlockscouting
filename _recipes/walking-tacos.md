@@ -2,7 +2,10 @@
 
 layout: page
 name: Walking Tacos
-tags: easy,lunch,younger-scout-friendly
+tags: 
+    - easy
+    - lunch
+    - younger-scout-friendly
 
 ---
 

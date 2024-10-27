@@ -2,7 +2,11 @@
 
 layout: page
 name: Buzz, Bing, Bang
-tags: small-group,circle,indoor,outdoor
+tags: 
+    - small-group
+    - circle
+    - indoor
+    - outdoor
 
 ---
 
