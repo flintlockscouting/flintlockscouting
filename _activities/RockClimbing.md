@@ -13,7 +13,7 @@ Below are links and suggestions you can use if your unit is interested in planni
 
 ## Links
 
-Boundless Adventures
+Boundless Adventures - Berlin, MA
  - example: Scout Glow Event: November 8, 2025
 
 		          https://boundlessadventures.net/ma-park/group-admission/
