@@ -1,7 +1,7 @@
 ---
 
 layout: page
-name: Hot Rod
+name: Sports
 tags: 
     - sports
 
