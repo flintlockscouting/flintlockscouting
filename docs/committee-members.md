@@ -20,5 +20,4 @@ nav_order: 3
 |[Cheryl Kline](mailto:cherylk519@gmail.com)|Eagle Processing|	
 |[Joshua Kline](mailto:fl.eagle.coordinator@gmail.com)|Eagle Processing |
 |[Gail Tenney](mailto:gegail@yahoo.com)|Communications & Social Media|
-|[Chris Boran](mailto:cboran@flintlockscouting.org)|Member-at-Large|
 |[Charles Hatvany](mailto:charles@hatvany.com)|Member-at-Large|
