@@ -1,0 +1,38 @@
+---
+
+layout: page
+name: S'more Quesadilla
+tags: 
+    - easy
+    - dessert
+    - younger-scout-friendly
+
+---
+
+# S'more Quesadillas
+
+## Description
+
+S'more Quesadillas are an fun and easy favorite for a a fireless take on the campfire S'more (cooked on a griddle/fry pan)
+
+## Ingredient List
+
+Required Ingredients:
+
+- 2 tortillas  per Scout
+- Bag of mini marsmallows
+- bag of chocolate chips
+Optional toppings
+- other flavors of cookie chips such as butterscotch
+- sprinkles
+- any scout favorites
+
+
+
+## Preparation
+
+1. warm griddle and spray with non-stick.
+2. Ask the scouts to put toppings of choice on a tortilla, then cover with 2nd tortilla to make quesadilla
+3. Adult(for young scouts) or responsible scout places quesadilla on griddle, pressing and flipping during cooking to a light brown
+4. Return Smore quesadilla to scout on a plate
+5. Enjoy!
