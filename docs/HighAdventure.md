@@ -1,8 +1,8 @@
 ---
 
 layout: page
-title: High Adventure Resources
-NavOrder 8
+title: High Adventure Trips
+parent: Scouting Resources
 ---
 High Adventure Trips are a highlight for many Scouts.
 
