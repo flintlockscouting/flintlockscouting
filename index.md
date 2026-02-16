@@ -13,7 +13,7 @@ nav_order: 1
 
 |Event| When & Where | Contact |
 |:-------------|:------------------|:------|
-|**Scouter's Roundtable**| 2nd Wednesday of the month 7-9pm @ [Marshall Simonds Middle School](https://maps.app.goo.gl/CK8aEn8KGiVSkJ8D8)| |
+|**Scouter's Roundtable**| 2nd Wednesday of the month 7-9pm @ [TBD - check Calendar]| |
 |**District Committee**| 1st Wednesday of the month 7:30-9pm @ [Bedford American Legion](https://maps.app.goo.gl/DKGcygk22jroEfBo7) | [Peter Rici](mailto:riccistuff@verizon.net)|
 |**Eagle Board of Review** | 1st Monday of the month 7-8:30pm @ [St. Theresa's Parish](https://maps.app.goo.gl/jNkYBMrTedvgVRDC7) |  [Contact Flintlock Eagle Coordinator](mailto:fl.eagle.coordinator@gmail.com)|
 |**Eagle Board of Review** | 3rd Thursday of the month 7:30-9pm @ [St. Brigid's Parish](https://maps.app.goo.gl/y9o9X4zvdmCSjNJF7)  |  [Contact Flintlock Eagle Coordinator](mailto:fl.eagle.coordinator@gmail.com)|
