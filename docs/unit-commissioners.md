@@ -15,7 +15,7 @@ nav_order: 4
 |[Steve Gousie](mailto:stephen@gousie.me)|**Reading:** P733, P735|	
 |[Brian Grace](mailto:brian.grace@belmontprinting.com)|**Woburn:** P502, T502B, T502G|	
 |[Bernie Gunther](mailto:bernard@gunther.com)|**Lexington:** C1775|	
-|[Mike Kilkelly](mailto:mkilkelly@aol.com)|**Wakefield:** P722, T701B, T701G|	
+|[Mike Kilkelly](mailto:mkilkelly@aol.com)|**Wakefield:** P722, T701F|	
 |[Peter Ricci](mailto:riccistuff@verizon.net)|**Bedford:** P194, T114, T194|	
 |[David Owen](mailto:david.owen@concordscouthouse.org)|**Concord:** P133, P149, T132|	
 |[Gail Tenney](mailto:gegail@yahoo.com)|**North Reading:** P731, T750|	
