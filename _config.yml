@@ -35,7 +35,10 @@ nav_external_links:
     url: https://www.scoutingboston.org/leaders/
     hide_icon: false
     opens_in_new_tab: true
-
+- title: Merit Badge Opportunities
+    url: https://www.scoutingboston.org/merit-badge-wokshops/
+    hide_icon: false
+    opens_in_new_tab: true
 
 # Top Right Naviation Links
 aux_links:
