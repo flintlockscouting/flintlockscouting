@@ -22,24 +22,24 @@ nav_external_links:
     opens_in_new_tab: true
 
   - title: Adult Trainings
-    url: https://www.scoutspirit.org/find-training/
+    url: https://www.scoutingboston.org/find-training/
     hide_icon: false
     opens_in_new_tab: true
 
   - title: Council Events
-    url: https://www.scoutspirit.org/ecwd_calendar/calendar/
+    url: https://www.scoutingboston.org/council-calendar/
     hide_icon: false 
     opens_in_new_tab: true 
   
   - title: More Leader Resources
-    url: https://www.scoutspirit.org/leaders/
+    url: https://www.scoutingboston.org/leaders/
     hide_icon: false
     opens_in_new_tab: true
 
 
 # Top Right Naviation Links
 aux_links:
-  The Spirit of Adventure Council: https://www.scoutspirit.org
+  The Spirit of Adventure Council: https://www.scoutingboston.org/
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true 
@@ -103,6 +103,9 @@ collections:
   songs:
     output: true    
     permalink: /songs/:path
+  PinewoodDerby:
+    output: true    
+    permalink: /PinewoodDerby/:path
 
 just_the_docs:
   collections:
@@ -124,5 +127,7 @@ just_the_docs:
     songs:  
       name: Songs
       nav_exclude: true
-
+Pinewood Derby:  
+      name: PinewoodDerby
+      nav_exclude: true
 
